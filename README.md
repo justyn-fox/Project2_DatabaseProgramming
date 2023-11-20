@@ -8,7 +8,7 @@ to be made for any database interactions.
 
 ## Installing and running application 
 
-- 1: Start by cloning this repo straight from Github and creating a new project from VCS. Or download the project
+- 1: Start by cloning this repo straight from GitHub and creating a new project from VCS. Or download the project
   and extract the zip and continue normally to starting a new project in IntelliJ IDEA. 
 - 2: Download the plugin 'Database Navigator' to establish the connection to MySQL workbench. After creating your
   database in MySQL, you can continue to IDEA. 
