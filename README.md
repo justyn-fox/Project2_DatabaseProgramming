@@ -22,7 +22,7 @@ to be made for any database interactions.
 - 7: While preparing to run the project, head over to MySQL workbench to create the database, and refresh the schema
   in the MySQL schema tab; the project can be run. 
 
-## Downloads 
+## Downloads / Libraries
 
 - Database Navigator
   - https://plugins.jetbrains.com/plugin/1800-database-navigator
