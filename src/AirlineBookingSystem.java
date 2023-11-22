@@ -8,8 +8,9 @@ import java.sql.*;
 public class AirlineBookingSystem {
 
     private static final String JDCB_URL = "jdbc:mysql://localhost:3306/AirlineBookingSystem";
-    private static final String USER = "root";
-    private static final String PASSWORD = "Steelersrock1";
+    // fill own
+    private static final String USER = "****";
+    private static final String PASSWORD = "***********";
 
     private static Connection createConnection() {
         try {
